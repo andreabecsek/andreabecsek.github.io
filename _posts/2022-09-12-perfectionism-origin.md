@@ -5,8 +5,6 @@ categories:
 excerpt: |
   Reflecting on my journey with perfectionism so far.
 feature_text: |
-  ## Perfectionism - An origin story
-  The modern pot still is a descendant of the alembic, an earlier distillation device
 feature_image: "https://images.unsplash.com/photo-1477951233099-d2c5fbd878ee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80"
 image: "https://images.unsplash.com/photo-1477951233099-d2c5fbd878ee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80"
 ---
@@ -21,7 +19,7 @@ I study, analyse and overthink before doing something. That is if I ever get to 
 I grew up in a small town in Transylvania, Romania where there were a mix of Romanian and Hungarian people. Having a Romanian mum and Hungarian dad, I was often made fun of and felt like I didn't belong because I was neither one of them. And while I now love that I got to experience two wonderful cultures growing up, at the time I didn't have the maturity to understand this. The constant voices around me making me feel inadequate left me in a constant chase of the person I thought everyone wanted me to be. Well that person didn't exist and my attempts of trying to figure out how to please everyone resulted in a lot of self-doubt and conviction that I would never be good enough.
 
 ### Studying and the educational system
-With not a lot to do in a small country town, school and studying was my main "hobby" and since I didn't have many friends I was committed to proving myself by studying really hard instead and trying to be the best. Problem is that the educational system was very rigid in many ways. Mistakes were not encouraged and memorisation was rewarded more than exploring and learning in a more logical manner. So there I was, trying to please my teachers and the path to doing so was by not making any mistakes. 
+With not a lot to do in a small country town, school and studying was my main "hobby" and since I didn't have many friends I was committed to proving myself by studying really hard instead and trying to be the best. Problem is that the educational system was very rigid in many ways. Mistakes were not encouraged and memorisation was rewarded more than exploring and learning in a more logical manner. So there I was, trying to please my teachers and the path to doing so was by not making any mistakes.
 
 ### The start of my writing anxiety
 I was already forming many perfectionist tendencies by the time I was 16, but then came the Romanian literature exam. A third of the exam was writing a 2-3 page essay about one of the many novels or poems that we have studied. We were therefore required to memorise many dates, quotes, verses etc. And while in most subjects I found it easy getting straight 10s, or at least understanding my mistakes, this was different. Take for example a mock exam I took a few months before the finals. I got a 9/10, which is arguably very good, but at the time it didn't seem like it. But when I asked for feedback, I was told that there was nothing wrong with my essay, but it was missing something. Knowing that I wasn't good enough at writing and no clear way to improve I felt frustrated and helpless.
