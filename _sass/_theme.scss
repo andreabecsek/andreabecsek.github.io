@@ -88,6 +88,7 @@ body {
 .footer {
   background: $headingColour;
   color: $captionColour;
+  background-color: #606c38;
   a {
     color: $captionColour;
     &:hover {
@@ -127,6 +128,10 @@ body {
     @include justify-content(center);
     @include flex-direction(row);
   }
+}
+
+h5 {
+  color: #606c38;
 }
 
 .header,
